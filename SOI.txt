@@ -1,0 +1,3266 @@
+Card Name:	Always Watching
+Card Color:	W
+Mana Cost:	1WW
+Type & Class:	Enchantment
+Pow/Tou:	
+Card Text:	Nontoken creatures you control get +1/+1 and have vigilance.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		1/999
+
+Card Name:	Angel of Deliverance
+Card Color:	W
+Mana Cost:	6WW
+Type & Class:	Creature - Angel
+Pow/Tou:	6/6
+Card Text:	Flying. Delirium - Whenever Angel of Deliverance deals damage, if there are four or more card types among cards in your graveyard, exile target creature an opponent controls.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		2/999
+
+Card Name:	Angelic Purge
+Card Color:	W
+Mana Cost:	2W
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	As an additional cost to cast Angelic Purge, sacrifice a permanent. Exile target artifact, creature, or enchantment.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		3/999
+
+Card Name:	Apothecary Geist
+Card Color:	W
+Mana Cost:	3W
+Type & Class:	Creature - Spirit
+Pow/Tou:	2/3
+Card Text:	Flying. When Apothecary Geist enters the battlefield, if you control another Spirit, you gain 3 life.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		4/999
+
+Card Name:	Archangel Avacyn/Avacyn, the Purifier
+Card Color:	W
+Mana Cost:	3WW
+Type & Class:	Legendary Creature - Angel
+Pow/Tou:	4/4//6/5
+Card Text:	Flash. Flying, vigilance. When Archangel Avacyn enters the battlefield, creatures you control gain indestructible until end of turn. When a non-Angel creature you control dies, transform Archangel Avacyn at the beginning of the next upkeep.//Flying. When this creature transforms into Avacyn, the Purifier, it deals 3 damage to each other creature and each opponent.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		5/999
+
+Card Name:	Avacynian Missionaries/Lunarch Inquisitors
+Card Color:	W
+Mana Cost:	3W
+Type & Class:	Creature - Human Cleric
+Pow/Tou:	3/3//4/4
+Card Text:	At the beginning of your end step, if Avacynian Missionaries is equipped, transform it.//When this creature transforms into Lunarch Inquisitors, you may exile another target creature until Lunarch Inquisitors leaves the battlefield.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		6/999
+
+Card Name:	Bound by Moonsilver
+Card Color:	W
+Mana Cost:	2W
+Type & Class:	Enchantment - Aura
+Pow/Tou:	
+Card Text:	Enchant creature. Enchanted creature can't attack, block or transform. Sacrifice another permanent: Attach Bound by Moonsilver to target creature. Activate this ability only any time you could cast a sorcery and only once each turn.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		7/999
+
+Card Name:	Bygone Bishop
+Card Color:	W
+Mana Cost:	2W
+Type & Class:	Creature - Spirit Cleric
+Pow/Tou:	2/3
+Card Text:	Flying. Whenever you cast a creature spell with converted mana cost 3 or less, investigate. (Put a colorless Clue artifact token onto the battlefield with "2, Sacrifice this artifact: Draw a card.")
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		8/999
+
+Card Name:	Cathar's Companion
+Card Color:	W
+Mana Cost:	2W
+Type & Class:	Creature - Hound
+Pow/Tou:	3/1
+Card Text:	Whenever you cast a noncreature spell, Cathar's Companion gains indestructible until end of turn. (Damage and effects that say "destroy" don't destroy it.)
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		9/999
+
+Card Name:	Chaplain's Blessing
+Card Color:	W
+Mana Cost:	W
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	You gain 5 life.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		10/999
+
+Card Name:	Dauntless Cathar
+Card Color:	W
+Mana Cost:	2W
+Type & Class:	Creature - Human Soldier
+Pow/Tou:	3/2
+Card Text:	1W, Exile Dauntless Cathar from your graveyard: Put a 1/1 white Spirit creature token with flying onto the battlefield. Activate this ability only any time you could cast a sorcery.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		11/999
+
+Card Name:	Declaration in Stone
+Card Color:	W
+Mana Cost:	1W
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	Exile target creature and all other creatures its controller controls with the same name as that creature. That player investigates for each nontoken creature exiled this way.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		12/999
+
+Card Name:	Descend upon the Sinful
+Card Color:	W
+Mana Cost:	4WW
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	Exile all creatures. Delirium - Put a 4/4 white Angel creature token with flying onto the battlefield if there are four or more card types among cards in your graveyard.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		13/999
+
+Card Name:	Devilthorn Fox
+Card Color:	W
+Mana Cost:	1W
+Type & Class:	Creature - Fox
+Pow/Tou:	3/1
+Card Text:	
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		14/999
+
+Card Name:	Drogskol Cavalry
+Card Color:	W
+Mana Cost:	5WW
+Type & Class:	Creature - Spirit Knight
+Pow/Tou:	4/4
+Card Text:	Flying. Whenever another Spirit enters the battlefield under your control, you gain 2 life. 3W: Put a 1/1 white Spirit creature token with flying onto the battlefield.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		15/999
+
+Card Name:	Eerie Interlude
+Card Color:	W
+Mana Cost:	2W
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	Exile any number of target creatures you control. Return those cards to the battlefield under their owner's control at the beginning of the next end step.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		16/999
+
+Card Name:	Emissary of the Sleepless
+Card Color:	W
+Mana Cost:	4W
+Type & Class:	Creature - Spirit
+Pow/Tou:	2/4
+Card Text:	Flying. When Emissary of the Sleepless enters the battlefield, if a creature died this turn, put a 1/1 white Spirit creature token with flying onto the battlefield.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		17/999
+
+Card Name:	Ethereal Guidance
+Card Color:	W
+Mana Cost:	2W
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	Creatures you control get +2/+1 until end of turn.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		18/999
+
+Card Name:	Expose Evil
+Card Color:	W
+Mana Cost:	1W
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	Tap up to two target creatures. Investigate. (Put a colorless Clue artifact token onto the battlefield with "2, Sacrifice this artifact: Draw a card.")
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		19/999
+
+Card Name:	Gryff's Boon
+Card Color:	W
+Mana Cost:	W
+Type & Class:	Enchantment - Aura
+Pow/Tou:	
+Card Text:	Enchant creature. Enchanted creature gets +1/+0 and has flying. 3W: Return Gryff's Boon from your graveyard to the battlefield attached to target creature. Activate this ability only any time you could cast a sorcery.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		20/999
+
+Card Name:	Hanweir Militia Captain/Westvale Cult Leader
+Card Color:	W
+Mana Cost:	1W
+Type & Class:	Creature - Human Soldier//Creature - Human Cleric
+Pow/Tou:	2/2//*/*
+Card Text:	At the beginning of your upkeep, if you control four or more creatures, transform Hanweir Militia Captain.//Westvale Cult Leader's power and toughness are each equal to the number of creatures you control. At the beginnning of your end step, put a 1/1 white and black Human Cleric creature token onto the battlefield.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		21/999
+
+Card Name:	Hope Against Hope
+Card Color:	W
+Mana Cost:	2W
+Type & Class:	Enchantment - Aura
+Pow/Tou:	
+Card Text:	Enchant creature. Enchanted creature gets +1/+1 for each creature you control. As long as enchanted creature is a Human, it has first strike.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		22/999
+
+Card Name:	Humble the Brute
+Card Color:	W
+Mana Cost:	4W
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	Destroy target creature with power 4 or greater. Investigate. (Put a colorless Clue artifact token onto the battlefield with "2, Sacrifice this artifact: Draw a card.")
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		23/999
+
+Card Name:	Inquisitor's Ox
+Card Color:	W
+Mana Cost:	3W
+Type & Class:	Creature - Ox
+Pow/Tou:	2/5
+Card Text:	Delirium - Inquisitor's Ox gets +1/+0 and has vigilance as long as there are four or more card types among cards in your graveyard.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		24/999
+
+Card Name:	Inspiring Captain
+Card Color:	W
+Mana Cost:	3W
+Type & Class:	Creature - Human Knight
+Pow/Tou:	3/3
+Card Text:	When Inspiring Captian enters the battlefield, creatures you control get +1/+1 until end of turn.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		25/999
+
+Card Name:	Militant Inquisitor
+Card Color:	W
+Mana Cost:	2W
+Type & Class:	Creature - Human Cleric
+Pow/Tou:	2/3
+Card Text:	Militant Inquisitor gets +1/+0 for each Equipment you control.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		26/999
+
+Card Name:	Moorland Drifter
+Card Color:	W
+Mana Cost:	1W
+Type & Class:	Creature - Spirit
+Pow/Tou:	2/2
+Card Text:	Delirium - Moorland Drifter has flying as long as there are four or more card types among cards in your graveyard.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		27/999
+
+Card Name:	Nahiri's Machinations
+Card Color:	W
+Mana Cost:	1W
+Type & Class:	Enchantment
+Pow/Tou:	
+Card Text:	At the beginning of combat on your turn, target creature you control gains indestructible until end of turn. 1R: Nahiri's Machinations deals 1 damage to target blocking creature.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		28/999
+
+Card Name:	Nearheath Chaplain
+Card Color:	W
+Mana Cost:	3W
+Type & Class:	Creature - Human Cleric
+Pow/Tou:	3/1
+Card Text:	Lifelink. 2W, Exile Nearheath Chaplain from your graveyard: Put two 1/1 white Spirit creature tokens with flying onto the battlefield. Activate this ability only any time you could cast a sorcery.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		29/999
+
+Card Name:	Not Forgotten
+Card Color:	W
+Mana Cost:	1w
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	Put target card from a graveyard on the top of bottom of its owner's library. Put a 1/1 white Spirit creature token with flying onto the battlefield.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		30/999
+
+Card Name:	Odric, Lunarch Marshal
+Card Color:	W
+Mana Cost:	3W
+Type & Class:	Legendary Creature - Human Soldier
+Pow/Tou:	3/3
+Card Text:	At the beginning of each combat, creatures you control gain first strike until end of turn if a creature you control has first strike. The same is true for flying, deathtouch, double strike, haste, hexproof, indestructible, lifelink, menace, reach, skulk, trample, and vigilance.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		31/999
+
+Card Name:	Open the Armory
+Card Color:	W
+Mana Cost:	1W
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	Search your library for an Aura or Equipment card, reveal it, and put it into your hand. Then shuffle your library.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		32/999
+
+Card Name:	Paranoid Parish-Blade
+Card Color:	W
+Mana Cost:	2W
+Type & Class:	Creature - Human Soldier
+Pow/Tou:	3/2
+Card Text:	Delirium - Paranoid Parish-Blade gets +1/+0 and has first strike as long as there are four or more card types among cards in your graveyard.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		33/999
+
+Card Name:	Pious Evangel/Wayward Disciple
+Card Color:	W
+Mana Cost:	2W
+Type & Class:	Creature - Human Cleric
+Pow/Tou:	2/2//2/4
+Card Text:	Whenever Pious Evangel or another creature enters the battlefield under your control, you gain 1 life. 2, T, Sacrifice another permanent: Transform Pious Evangel.//Whenever Wayward Disciple or another creature you contorl dies, target opponent loses 1 life and you gain 1 life.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		34/999
+
+Card Name:	Puncturing Light
+Card Color:	W
+Mana Cost:	1W
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	Destroy target attacking or blocking creature with power 3 or less.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		35/999
+
+Card Name:	Reaper of Flight Moonsliver
+Card Color:	W
+Mana Cost:	3WW
+Type & Class:	Creature - Angel
+Pow/Tou:	3/3
+Card Text:	Flying. Delirium - Sacrifice another creature: Reaper of Flight Moonsilver gets +2/+1 until end of turn. Activate this ability only if there are four or more card types among cards in your graveyard.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		36/999
+
+Card Name:	Silverstrike
+Card Color:	W
+Mana Cost:	3W
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	Destroy target attacking creature. You gain 3 life.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		37/999
+
+Card Name:	Spectral Shepherd
+Card Color:	W
+Mana Cost:	2W
+Type & Class:	Creature - Spirit
+Pow/Tou:	2/2
+Card Text:	Flying. 1U: Return target Spirit you control to its owner's hand.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		38/999
+
+Card Name:	Stern Constable
+Card Color:	W
+Mana Cost:	W
+Type & Class:	Creature - Human Soldier
+Pow/Tou:	1/1
+Card Text:	T, Discard a card: Tap target creature.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		39/999
+
+Card Name:	Strength of Arms
+Card Color:	W
+Mana Cost:	W
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	Target creature gets +2/+2 until end of turn. If you control an Equipment, put a 1/1 white Human Soldier creature token onto the battlefield.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		40/999
+
+Card Name:	Survive the Night
+Card Color:	W
+Mana Cost:	2W
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	Target creature gets +1/+0 and gains indestructible until end of turn. (Damage and effects that say "destroy" don't destroy it.) Investigate. (Put a colorless Clue artifact token onto the battlefield with "2, Sacrifice this artifact: Draw a card.")
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		41/999
+
+Card Name:	Tenacity
+Card Color:	W
+Mana Cost:	3W
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	Creatures you control get +1/+1 and gain lifelink until end of turn. Untap those creatures.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		42/999
+
+Card Name:	Thalia's Lieutenant
+Card Color:	W
+Mana Cost:	1W
+Type & Class:	Creature - Human Soldier
+Pow/Tou:	1/1
+Card Text:	When Thalia's Lieutenant enters the battlefield, put a +1/+1 counter on each other Human you control. Whenever another Human enters the battlefield under your control, put a +1/+1 counter on Thalia's Lieutenant.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		43/999
+
+Card Name:	Thraben Inspector
+Card Color:	W
+Mana Cost:	W
+Type & Class:	Creature - Human Soldier
+Pow/Tou:	1/2
+Card Text:	When Thraben Inspector enters the battlefield, investigate. (Put a colorless Clue artifact token onto the battlefield with "2, Sacrifice this artifact: Draw a card.")
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		44/999
+
+Card Name:	Topplegeist
+Card Color:	W
+Mana Cost:	W
+Type & Class:	Creature - Spirit
+Pow/Tou:	1/1
+Card Text:	Flying. When Topplegeist enters the battlefield, tap target creature an opponent controls. Delirium - At the beginning of your upkeep, if there are four or more card types among cards in your graveyard, tap target creature that player controls.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		45/999
+
+Card Name:	Town Gossipmonger/Incited Rabble
+Card Color:	W
+Mana Cost:	W
+Type & Class:	Creature - Human
+Pow/Tou:	1/1//2/3
+Card Text:	T, Tap an untapped creature you control: Transform Town Gossipmonger.//Incited Rabble attacks each combat if able. 2: Incited Rabble gets +1/+0 until end of turn.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		46/999
+
+Card Name:	Unruly Mob
+Card Color:	W
+Mana Cost:	1W
+Type & Class:	Creature - Human
+Pow/Tou:	1/1
+Card Text:	Whenever another creature you control dies, put a +1/+1 counter on Unruly Mob.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		47/999
+
+Card Name:	Vessel of Ephemera
+Card Color:	W
+Mana Cost:	1W
+Type & Class:	Enchantment
+Pow/Tou:	
+Card Text:	2W, Sacrifice Vessel of Ephemera: Put two 1/1 white Spirit creature tokens with flying onto the battlefield.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		48/999
+
+Card Name:	Aberrant Researcher/Perfected Form
+Card Color:	U
+Mana Cost:	3U
+Type & Class:	Creature - Human Insect//Creature - Insect Horror
+Pow/Tou:	3/2//5/4
+Card Text:	Flying. At the beginning of your upkeep, put the top card of your library into your graveyard. If it's an instant or sorcery card, transform Aberrant Researcher.//Flying.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		49/999
+
+Card Name:	Broken Concentration
+Card Color:	U
+Mana Cost:	1UU
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	Counter target spell. Madness 3U (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		50/999
+
+Card Name:	Catalog
+Card Color:	U
+Mana Cost:	2U
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	Draw two cards, then discard a card.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		51/999
+
+Card Name:	Compelling Deterrence
+Card Color:	U
+Mana Cost:	1U
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	Return target nonland permanent to its owner's hand. Then that player discards a card if you control a Zombie.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		52/999
+
+Card Name:	Confirm Suspicions
+Card Color:	U
+Mana Cost:	3UU
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	Counter target spell. Investigate three times. (Put a colorless Clue artifact token onto the battlefield with "2, Sacrifice this artifact: Draw a card.")
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		53/999
+
+Card Name:	Daring Sleuth/Bearer of Overwhelming Truths
+Card Color:	U
+Mana Cost:	1U
+Type & Class:	Creature - Human Rogue//Creature - Human Wizard
+Pow/Tou:	2/1//3/2
+Card Text:	When you sacrifice a Clue, transform Daring Sleuth.//Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.) Whenever Bearer of Overwhelming Truths deals combat damage to a player, investigate. (Put a colorless Clue artifact token onto the battlefield with "2, Sacrifice this artifact: Draw a card.")
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		54/999
+
+Card Name:	Deny Existence
+Card Color:	U
+Mana Cost:	2U
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	Counter target creature spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		55/999
+
+Card Name:	Drownyard Explorers
+Card Color:	U
+Mana Cost:	3U
+Type & Class:	Creature - Human Wizard
+Pow/Tou:	2/4
+Card Text:	When Drownyard Explorers enters the battlefield, investigate. (Put a colorless Clue artifact token onto the battlefield with "2, Sacrifice this artifact: Draw a card.")
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		56/999
+
+Card Name:	Drunau Corpse Trawler
+Card Color:	U
+Mana Cost:	3U
+Type & Class:	Creature - Zombie
+Pow/Tou:	1/1
+Card Text:	When Drunau Corpse Trawler enters the battlefield, put a 2/2 black Zombie creature token onto the battlefield. 2B: Target Zombie gains deathtouch until end of turn.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		57/999
+
+Card Name:	Engulf the Shore
+Card Color:	U
+Mana Cost:	3U
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	Return to their owners' hands all reatures with toughness less than or equal to the number of Islands you control.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		58/999
+
+Card Name:	Epiphany at the Drownyard
+Card Color:	U
+Mana Cost:	XU
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	Reveal the top X plus one cards of your library and seperate them into two piles. An opponent chooses one of those piles. Put that pile into your hand and the other into your graveyard.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		59/999
+
+Card Name:	Erdwal Illuminator
+Card Color:	U
+Mana Cost:	1U
+Type & Class:	Creature - Spirit
+Pow/Tou:	1/3
+Card Text:	Flying. Whenever you investigate for the first time each turn, investigate an additional time.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		60/999
+
+Card Name:	Essence Flux
+Card Color:	U
+Mana Cost:	U
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	Exile target creature you control, then return that card to the battlefield under its owner's control. If it's a Spirit, put a +1/+1 counter on it.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		61/999
+
+Card Name:	Fleeting Memories
+Card Color:	U
+Mana Cost:	2U
+Type & Class:	Enchantment
+Pow/Tou:	
+Card Text:	When Fleeting Memories enters the battlefield, investigate. (Put a colorless Clue artifact token onto the battlefield with "2, Sacrifice this artifact: Draw a card.")
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		62/999
+
+Card Name:	Forgotten Creation
+Card Color:	U
+Mana Cost:	3U
+Type & Class:	Creature - Zombie Horror
+Pow/Tou:	3/3
+Card Text:	Skulk (This creature can't be blocked by creatures with greater power.) At the beginning of your upkeep, you may discard all the cards in your hand. If you do, draw that many cards.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		63/999
+
+Card Name:	Furtive Homunculus
+Card Color:	U
+Mana Cost:	1U
+Type & Class:	Creature - Homunculus
+Pow/Tou:	2/1
+Card Text:	Skulk (This creature can't be blocked by creatures with greater power.)
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		64/999
+
+Card Name:	Geralf's Masterpiece
+Card Color:	U
+Mana Cost:	3UU
+Type & Class:	Creature - Zombie Horror
+Pow/Tou:	7/7
+Card Text:	Flying. Geralf's Masterpiece gets -1/-1 for each card in your hand. 3U, Discard three cards: Return Geralf's Masterpiece from your graveyard to the battlefield tapped.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		65/999
+
+Card Name:	Ghostly Wings
+Card Color:	U
+Mana Cost:	1U
+Type & Class:	Enchantment - Aura
+Pow/Tou:	
+Card Text:	Enchant creature. Enchanted creature gets +1/+1 and has flying. Discard a card: Return enchanted creature to its owner's hand.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		66/999
+
+Card Name:	Gone Missing
+Card Color:	U
+Mana Cost:	4U
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	Put target permanent on top of its owner's library. Investigate. (Put a colorless Clue artifact token onto the battlefield with "2, Sacrifice this artifact: Draw a card.")
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		67/999
+
+Card Name:	Invasive Surgery
+Card Color:	U
+Mana Cost:	U
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	Counter target sorcery spell. Delirium - If there are four or more card types among cards in your graveyard, search the graveyard, hand, and library of that spell's controller for any number of cards with the same name as that spell, exile those cards, then that player shuffles his or her library.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		68/999
+
+Card Name:	Jace, Unraveler of Secrets
+Card Color:	U
+Mana Cost:	3UU
+Type & Class:	Planeswalker - Jace
+Pow/Tou:	#/5
+Card Text:	+1: Scry 1, then draw a card. -2: Return target creature to its owner's hand. -8: You get an emblem with "Whenever an opponent casts his or her first spell each turn, counter that spell."
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		69/999
+
+Card Name:	Jace's Scrutiny
+Card Color:	U
+Mana Cost:	1U
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	Target creature gets -4/-0 until end of turn. Investigate. (Put a colorless Clue artifact token onto the battlefield with "2, Sacrifice this artifact: Draw a card.")
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		70/999
+
+Card Name:	Just the Wind
+Card Color:	U
+Mana Cost:	1U
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	Return target creature to its owner's hand. Madness U (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		71/999
+
+Card Name:	Lamplighter of Selhoff
+Card Color:	U
+Mana Cost:	4U
+Type & Class:	Creature - Zombie Horror
+Pow/Tou:	3/5
+Card Text:	When Lamplighter of Selhoff enters the battlefield, if you control another Zombie, you may draw a card. If you do, discard a card.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		72/999
+
+Card Name:	Manic Scribe
+Card Color:	U
+Mana Cost:	1U
+Type & Class:	Creature - Human Wizard
+Pow/Tou:	0/3
+Card Text:	When Manic Scribe enters the battlefield, each opponent puts the top three cards of his or her library into his or her graveyard. Delirium - At the beginning of each opponent's upkeep, if there are four or more card types among cards in your graveyard, that player puts the top three cards of his or her library into his or her graveyard.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		73/999
+
+Card Name:	Nagging Thoughts
+Card Color:	U
+Mana Cost:	1U
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	Look at the top two cards of your library. Put one of them into your hand and the other into your graveyard. Madness 1U (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		74/999
+
+Card Name:	Nephalia Moondrakes
+Card Color:	U
+Mana Cost:	5UU
+Type & Class:	Creature - Drake
+Pow/Tou:	5/5
+Card Text:	Flying. When Nephalia Moondrakes enters the battlefield, target creature gains flying until end of turn. 4UU, Exile Nephalia Moondrakes from your graveyard: Creatures you control gain flying until end of turn.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		75/999
+
+Card Name:	Niblis of Dusk
+Card Color:	U
+Mana Cost:	2U
+Type & Class:	Creature - Spirit
+Pow/Tou:	2/1
+Card Text:	Flying. Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		76/999
+
+Card Name:	Ongoing Investigation
+Card Color:	U
+Mana Cost:	1U
+Type & Class:	Enchantment
+Pow/Tou:	
+Card Text:	Whenever one or more creatures you control deal combat damage to a player, investigate. (Put a colorless Clue artifact token onto the battlefield with "2, Sacrifice this artifact: Draw a card.") 1G, Exile a creature card from your graveyard: Investigate. You gain 2 life.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		77/999
+
+Card Name:	Pieces of the Puzzle
+Card Color:	U
+Mana Cost:	2U
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	Reveal the top five cards of your library. Put up to two instant and/or sorcery cards from among them into your hand and the rest into your graveyard.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		78/999
+
+Card Name:	Pore Over the Pages
+Card Color:	U
+Mana Cost:	3UU
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	Draw three cards, untap up to two lands, then discard a card.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		79/999
+
+Card Name:	Press for Answers
+Card Color:	U
+Mana Cost:	1U
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	Tap target creature. It doesn't untap during its controller's next untap step. Investigate. (Put a colorless Clue artifact token onto the battlefield with "2, Sacrifice this artifact: Draw a card.")
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		80/999
+
+Card Name:	Rattlechains
+Card Color:	U
+Mana Cost:	1U
+Type & Class:	Creature - Spirit
+Pow/Tou:	2/1
+Card Text:	Flash. Flying. When Rattlechains enters the battlefield, target Spirit gains hexproof until end of turn. You may cast Spirit spells as though they had flash.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		81/999
+
+Card Name:	Reckless Scholar
+Card Color:	U
+Mana Cost:	2U
+Type & Class:	Creature - Human Wizard
+Pow/Tou:	2/1
+Card Text:	T: Target player draws a card, then discards a card.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		82/999
+
+Card Name:	Rise from the Tides
+Card Color:	U
+Mana Cost:	5U
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	Put a 2/2 black Zombie creature token onto the battlefield tapped for each instant and sorcery card in your graveyard.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		83/999
+
+Card Name:	Seagraf Skaab
+Card Color:	U
+Mana Cost:	1U
+Type & Class:	Creature - Zombie
+Pow/Tou:	1/3
+Card Text:	
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		84/999
+
+Card Name:	Silburlind Snapper
+Card Color:	U
+Mana Cost:	5U
+Type & Class:	Creature - Turtle
+Pow/Tou:	6/6
+Card Text:	Silburlind Snapper can't attack unless you've cast a noncreature spell this turn.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		85/999
+
+Card Name:	Silent Observer
+Card Color:	U
+Mana Cost:	3U
+Type & Class:	Creature - Spirit
+Pow/Tou:	1/5
+Card Text:	Flying.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		86/999
+
+Card Name:	Sleep Paralysis
+Card Color:	U
+Mana Cost:	3U
+Type & Class:	Enchantment - Aura
+Pow/Tou:	
+Card Text:	Enchant creature. When Sleep Paralysis enters the battelfield, tap enchanted creature. Enchanted creature doesn't untap during its controller's untap step.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		87/999
+
+Card Name:	Startled Awake/Persistent Nightmare
+Card Color:	U
+Mana Cost:	2UU
+Type & Class:	Sorcery//Creature - Nightmare
+Pow/Tou:	1/1
+Card Text:	Target opponent puts the top thirteen cards of his or her library into his or her graveyard. 3UU: Put Startled Awake from your graveyard onto the battlefield transformed. Activate this ability only any time you could cast a sorcery.//Skulk (This creature can't be blocked by creatures with greater power.) When Persistent Nightmare deals combat damage to a player, return it to its owner's hand.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		88/999
+
+Card Name:	Stitched Mangler
+Card Color:	U
+Mana Cost:	2U
+Type & Class:	Creature - Zombie Horror
+Pow/Tou:	2/3
+Card Text:	Stitched Mangler enters the battlefield tapped. When Stitched Mangler enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		89/999
+
+Card Name:	Stitchwing Skaab
+Card Color:	U
+Mana Cost:	3U
+Type & Class:	Creature - Zombie Horror
+Pow/Tou:	3/1
+Card Text:	Flying. 1U, Discard two cards: Return Stitchwing Skaab from your graveyard to the battlefield tapped.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		90/999
+
+Card Name:	Stormrider Spirit
+Card Color:	U
+Mana Cost:	4U
+Type & Class:	Creature - Spirit
+Pow/Tou:	3/3
+Card Text:	Flash (You may cast this spell any time you could cast an instant.) Flying.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		91/999
+
+Card Name:	Thing in the Ice/Awoken Horror
+Card Color:	U
+Mana Cost:	1U
+Type & Class:	Creature - Horror//Creature - Kraken Horror
+Pow/Tou:	0/4//7/8
+Card Text:	Defender. Thing in the Ice enters the battlefield with four ice counters on it. Whenever you cast an instant or sorcery spell, remove an ice counter from Thing in the Ice. Then if it has no ice counters on it, transform it.//When this creature transforms into Awoken Horror, return all non-Horror creatures to their owner's hands.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		92/999
+
+Card Name:	Trail of Evidence
+Card Color:	U
+Mana Cost:	2U
+Type & Class:	Enchantment
+Pow/Tou:	
+Card Text:	Whenever you cast an instant or sorcery spell, investigate. (Put a colorless Clue artifact token onto the battlefield with "2, Sacrifice this artifact: Draw a card.")
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		93/999
+
+Card Name:	Uninvited Geist/Unimpeded Trespasser
+Card Color:	U
+Mana Cost:	2U
+Type & Class:	Creature - Spirit
+Pow/Tou:	2/2//3/3
+Card Text:	Skulk (This creature can't be blocked by creatures with greater power.) When Uninvited Geist deals combat damage to a player, transform it.//Unimpeded Trespasser can't be blocked.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		94/999
+
+Card Name:	Vessel of Paramnesia
+Card Color:	U
+Mana Cost:	1U
+Type & Class:	Enchantment
+Pow/Tou:	
+Card Text:	U, Sacrifice Vessel of Paramnesia: Target player puts the top three cards of his or her library into his or her graveyard. Draw a card.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		95/999
+
+Card Name:	Welcome to the Fold
+Card Color:	U
+Mana Cost:	2UU
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	Madness 2UU (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.) Gain control of target creature if its toughness is 2 or less. If Welcome to the Fold's madness cost was paid, instead gain control of that creature if its toughness is X or less.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		96/999
+
+Card Name:	Accursed Witch/Infectious Curse
+Card Color:	B
+Mana Cost:	3B
+Type & Class:	Creature - Human Shaman//Enchantment - Aura Curse
+Pow/Tou:	4/2
+Card Text:	Spells your opponents cast that target Accursed Witch cost 1 less to cast. When Accursed Witch dies, return it to the battlefield transformed under your control attached to target opponent.//Enchant player. Spells you cast that target enchanted player cost 1 less to cast. At the beginning of enchanted player's upkeep, that player loses 1 life and you gain 1 life.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		97/999
+
+Card Name:	Alms of the Vein
+Card Color:	B
+Mana Cost:	2B
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	Target opponent loses 3 life and you gain 3 life. Madness B (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		98/999
+
+Card Name:	Asylum Visitor
+Card Color:	B
+Mana Cost:	1B
+Type & Class:	Creature - Vampire Wizard
+Pow/Tou:	3/1
+Card Text:	At the beginning of each player's upkeep, if that player has no cards in hand, you draw a card and you lose 1 life. Madness 1B (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		99/999
+
+Card Name:	Behind the Scenes
+Card Color:	B
+Mana Cost:	2B
+Type & Class:	Enchantment
+Pow/Tou:	
+Card Text:	Creatures you control have skulk. (They can't be blocked by creatures with greater power.) 4W: Creatures you control get +1/+1 until end of turn.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		100/999
+
+Card Name:	Behold the Beyond
+Card Color:	B
+Mana Cost:	5BB
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	Discard your hand. Search your library for three cards and put those cards into your hand. Then shuffle your library.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		101/999
+
+Card Name:	Biting Rain
+Card Color:	B
+Mana Cost:	2BB
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	All creatures get -2/-2 until end of turn. Madness 2B (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		102/999
+
+Card Name:	Call the Bloodline
+Card Color:	B
+Mana Cost:	1B
+Type & Class:	Enchantment
+Pow/Tou:	
+Card Text:	1, Discard a card: Put a 1/1 black Vampire Knight creature token with lifelink onto the battlefield. Activate this ability only once each turn.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		103/999
+
+Card Name:	Creeping Dread
+Card Color:	B
+Mana Cost:	3B
+Type & Class:	Enchantment
+Pow/Tou:	
+Card Text:	At the beginning of your upkeep, each player discards a card. Each opponent who discarded a card that shares a card type with the card you discarded loses 3 life. (Players reveal the discarded cards simultaneously.)
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		104/999
+
+Card Name:	Crow of Dark Tidings
+Card Color:	B
+Mana Cost:	2B
+Type & Class:	Creature - Zombie Bird
+Pow/Tou:	2/1
+Card Text:	Flying. When Crow of Dark Tidings enters the battlefield or dies, put the top two cards of your library into your graveyard.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		105/999
+
+Card Name:	Dead Weight
+Card Color:	B
+Mana Cost:	B
+Type & Class:	Enchantment - Aura
+Pow/Tou:	
+Card Text:	Enchant creature. Enchanted creature gets -2/-2.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		106/999
+
+Card Name:	Diregraf Colossus
+Card Color:	B
+Mana Cost:	2B
+Type & Class:	Creature - Zombie Giant
+Pow/Tou:	2/2
+Card Text:	Diregraf Colossus enters the battlefield with a +1/+1 counter on it for each Zombie card in your graveyard. Whenever you cast a Zombie spell, put a 2/2 black Zombie creature token onto the battlefield tapped.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		107/999
+
+Card Name:	Elusive Tormentor/Insidious Mist
+Card Color:	B
+Mana Cost:	2BB
+Type & Class:	Creature - Vampire Wizard//Creature - Elemental
+Pow/Tou:	4/4//0/1
+Card Text:	1, Discard a card: Transform Elusive Tormentor.//Hexproof, indestructible. Insidious Mist can't block and can't be blocked. Whenever Insidious Mist attacks and isn't blocked, you may pay 2B. If you do, transform it.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		108/999
+
+Card Name:	Ever After
+Card Color:	B
+Mana Cost:	4BB
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	Return up to two target creature cards from your graveyard to the battlefield. Each of those creatures is a black Zombie in addition to its other colors and types. Put Ever After on the bottom of its owner's library.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		109/999
+
+Card Name:	Farbog Revenant
+Card Color:	B
+Mana Cost:	2B
+Type & Class:	Creature - Spirit
+Pow/Tou:	1/3
+Card Text:	Skulk (This creature can't be blocked by creatures with greater power.) Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		110/999
+
+Card Name:	From Under the Floorboards
+Card Color:	B
+Mana Cost:	3BB
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	Madness XBB (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.) Put three 2/2 Zombie creature tokens onto the battlefield tapped and you gain 3 life. If From Under the Floorboards's madness cost was paid, instead put X of those tokens onto the battelfield tapped and you gain X life.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		111/999
+
+Card Name:	Ghoulcaller's Accomplice
+Card Color:	B
+Mana Cost:	1B
+Type & Class:	Creature - Human Rogue
+Pow/Tou:	2/2
+Card Text:	3B, Exile Ghoulcaller's Accomplice from your graveyard: Put a 2/2 black Zombie creature token onto the battlefield. Activate this ability only any time you could cast a sorcery.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		112/999
+
+Card Name:	Ghoulsteed
+Card Color:	B
+Mana Cost:	4B
+Type & Class:	Creature - Zombie Horse
+Pow/Tou:	4/4
+Card Text:	2B, Discard two cards: Return Ghoulsteed from your graveyard to the battlefield tapped.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		113/999
+
+Card Name:	Gisa's Bidding
+Card Color:	B
+Mana Cost:	2BB
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	Put two 2/2 black Zombie creature tokens onto the battlefield. Madness 2B (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		114/999
+
+Card Name:	Grotesque Mutation
+Card Color:	B
+Mana Cost:	1B
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	Target creature gets +3/+1 and gains lifelink until end of turn. (Damage dealt by the creature also causes its controller to gain that much life.)
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		115/999
+
+Card Name:	Heir of Falkenrath/Heir to the Night
+Card Color:	B
+Mana Cost:	1B
+Type & Class:	Creature - Vampire//Creature - Vampire Berserker
+Pow/Tou:	2/1//3/2
+Card Text:	Discard a card: Transform Heir of Falkenrath. Activate this ability only once each turn.//Flying.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		116/999
+
+Card Name:	Hound of the Farbogs
+Card Color:	B
+Mana Cost:	4B
+Type & Class:	Creature - Zombie Hound
+Pow/Tou:	5/3
+Card Text:	Delirium - Hound of the Farbogs has menace as long as there are four or more card types among cards in your graveyard. (A creature with menace can't be blocked except by two or more creatures.)
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		117/999
+
+Card Name:	Indulgent Aristocrat
+Card Color:	B
+Mana Cost:	B
+Type & Class:	Creature - Vampire
+Pow/Tou:	1/1
+Card Text:	Lifelink. 2, Sacrifice a creature: Put a +1/+1 counter on each Vampire you control.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		118/999
+
+Card Name:	Kindly Stranger/Demon-Possessed Witch
+Card Color:	B
+Mana Cost:	2B
+Type & Class:	Creature - Human//Creature - Human Shaman
+Pow/Tou:	2/3//4/3
+Card Text:	Delirium - 2B: Transform Kindly Stranger. Activate this ability only if there are four or more card types among cards in your graveyard.//When this creature transforms into Demon-Possessed Witch, you may destroy target creature.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		119/999
+
+Card Name:	Liliana's Indignation
+Card Color:	B
+Mana Cost:	XB
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	Put the top X cards of your library into your graveyard. Target player loses 2 life for each creature card put into your graveyard this way.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		120/999
+
+Card Name:	Macabre Waltz
+Card Color:	B
+Mana Cost:	1B
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	Return up to two target creature cards from your graveyard to your hand, then discard a card.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		121/999
+
+Card Name:	Markov Dreadknight
+Card Color:	B
+Mana Cost:	3BB
+Type & Class:	Creature - Vampire Knight
+Pow/Tou:	3/3
+Card Text:	Flying. 2B, Discard a card: Put two +1/+1 counters on Markov Dreadknight.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		122/999
+
+Card Name:	Merciless Resolve
+Card Color:	B
+Mana Cost:	2B
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	As an additional cost to cast Merciless Resolve, sacrifice a creature or land. Draw two cards.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		123/999
+
+Card Name:	Mindwrack Demon
+Card Color:	B
+Mana Cost:	2BB
+Type & Class:	Creature - Demon
+Pow/Tou:	4/5
+Card Text:	Flying, trample. When Mindwrack Demon enters the battlefield, put the top four cards of your library into the graveyard. Delirium - At the beginning of your upkeep, you lose 4 life unless there are four or more card types among cards in your graveyard.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		124/999
+
+Card Name:	Morkrut Necropod
+Card Color:	B
+Mana Cost:	5B
+Type & Class:	Creature - Slug Horror
+Pow/Tou:	7/7
+Card Text:	Menace (This creature can't be blocked except by two or more creatures.) Whenever Morkrut Necropod attacks or blocks, sacrifice another creature or land.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		125/999
+
+Card Name:	Murderous Compulsion
+Card Color:	B
+Mana Cost:	1B
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	Destroy target tapped creature. Madness 1B (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		126/999
+
+Card Name:	Olivia's Bloodsworn
+Card Color:	B
+Mana Cost:	1B
+Type & Class:	Creature - Vampire Soldier
+Pow/Tou:	2/1
+Card Text:	Flying. Olivia's Bloodsworn can't block. R: Target Vampire gains haste until end of turn.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		127/999
+
+Card Name:	Pale Rider of Trostad
+Card Color:	B
+Mana Cost:	1B
+Type & Class:	Creature - Spirit
+Pow/Tou:	3/3
+Card Text:	Skulk (This creature can't be blocked by creatures with greater power.) When Pale Rider of Trostad enters the battlefield, discard a card.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		128/999
+
+Card Name:	Pick the Brain
+Card Color:	B
+Mana Cost:	2B
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	Target opponent reveals his or her hand. You choose a nonland card from it and exile that card. Delirium - If there are four or more card types among cards in your graveyard, search that player's graveyard, hand, and library for any number of cards with the same name as the exiled card, exile those cards, then that player shuffles his or her library.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		129/999
+
+Card Name:	Rancid Rats
+Card Color:	B
+Mana Cost:	1B
+Type & Class:	Creature - Zombie Rat
+Pow/Tou:	1/1
+Card Text:	Skulk (This creature can't be blocked by creatures with greater power.) Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		130/999
+
+Card Name:	Relentless Dead
+Card Color:	B
+Mana Cost:	BB
+Type & Class:	Creature - Zombie
+Pow/Tou:	2/2
+Card Text:	Menace (This creature can't be blocked except by two or more creatures.) When Relentless Dead dies, you may pay B. If you do, return it to its owner's hand. When Relentless Dead dies, you may pay X. If you do, return another target Zombie creature card with converted mana cost X from your graveyard to the battlefield.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		131/999
+
+Card Name:	Rottenheart Ghoul
+Card Color:	B
+Mana Cost:	3B
+Type & Class:	Creature - Zombie
+Pow/Tou:	2/4
+Card Text:	When Rottenheart Ghoul dies, target player discards a card.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		132/999
+
+Card Name:	Sanitarium Skeleton
+Card Color:	B
+Mana Cost:	B
+Type & Class:	Creature - Skeleton
+Pow/Tou:	1/2
+Card Text:	2B: Return Sanitarium Skeleton from your graveyard to your hand.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		133/999
+
+Card Name:	Shamble Back
+Card Color:	B
+Mana Cost:	B
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	Exile target creature card from a graveyard. Put a 2/2 black Zombie creature token onto the battlefield. You gain 2 life.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		134/999
+
+Card Name:	Sinister Concoction
+Card Color:	B
+Mana Cost:	B
+Type & Class:	Enchantment
+Pow/Tou:	
+Card Text:	B, Pay 1 life, Put the top card of your library into your graveyard, Discard a card, Sacrifice Sinister Concoction: Destroy target creature.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		135/999
+
+Card Name:	Stallion of Ashmouth
+Card Color:	B
+Mana Cost:	3B
+Type & Class:	Creature - Nightmare Horse
+Pow/Tou:	3/3
+Card Text:	Delirium - 1B: Stallion of Ashmouth gets +1/+1 until end of turn. Activate this ability only if there are four or more card types among cards in your graveyard.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		136/999
+
+Card Name:	Stromkirk Mentor
+Card Color:	B
+Mana Cost:	3B
+Type & Class:	Creature - Vampire Soldier
+Pow/Tou:	4/2
+Card Text:	When Stromkirk Mentor enters the battlefield, put a +1/+1 counter on another target Vampire you control.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		137/999
+
+Card Name:	Throttle
+Card Color:	B
+Mana Cost:	4B
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	Target creature gets -4/-4 until end of turn.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		138/999
+
+Card Name:	To the Slaughter
+Card Color:	B
+Mana Cost:	2B
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	Target player sacrifices a creature or planeswalker. Delirium - If there are four or more card types among cards in your graveyard, instead that player sacrifices a creature and a planeswalker.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		139/999
+
+Card Name:	Tooth Collector
+Card Color:	B
+Mana Cost:	2B
+Type & Class:	Creature - Human Rogue
+Pow/Tou:	3/2
+Card Text:	When Tooth Collector enters the battlefield, target creature an opponent controls gets -1/-1 until end of turn. Delirium - At the beginning of each opponent's upkeep, if there are four or more card types among cards in your graveyard, target creature that player controls gets -1/-1 until end of turn.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		140/999
+
+Card Name:	Triskaidekaphobia
+Card Color:	B
+Mana Cost:	3B
+Type & Class:	Enchantment
+Pow/Tou:	
+Card Text:	At the beginning of your upkeep, choose one: -Each player with exactly 13 life loses the game, then each player gains 1 life. -Each player with exactly 13 life loses the game, then each player loses 1 life.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		141/999
+
+Card Name:	Twins of Maurer Estate
+Card Color:	B
+Mana Cost:	4B
+Type & Class:	Creature - Vampire
+Pow/Tou:	3/5
+Card Text:	Madness 2B (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		142/999
+
+Card Name:	Vampire Noble
+Card Color:	B
+Mana Cost:	2B
+Type & Class:	Creature - Vampire
+Pow/Tou:	3/2
+Card Text:	
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		143/999
+
+Card Name:	Vessel of Malignity
+Card Color:	B
+Mana Cost:	1B
+Type & Class:	Enchantment
+Pow/Tou:	
+Card Text:	1B, Sacrifice Vessel of Malignity: Target opponent exiles two cards from his or her hand. Activate this ability only any time you could cast a sorcery.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		144/999
+
+Card Name:	Avacyn's Judgement
+Card Color:	R
+Mana Cost:	1R
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	Madness XR (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.) Avacyn's Judgement deals 2 damage divided as you choose among any number of target creatures and/or players. If Avacyn's Judgement's madness cost was paid, it deals X damage divided as you choose among those creatures and/or players instead.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		145/999
+
+Card Name:	Bloodmad Vampire
+Card Color:	R
+Mana Cost:	2R
+Type & Class:	Creature - Vampire Berserker
+Pow/Tou:	4/1
+Card Text:	Whenever Bloodmad Vampire deals combat damage to a player, put a +1/+1 counter on it.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		146/999
+
+Card Name:	Breakneck Rider/Neck Breaker
+Card Color:	R
+Mana Cost:	1RR
+Type & Class:	Creature - Human Scout Werewolf//Creature - Werewolf
+Pow/Tou:	3/3//4/3
+Card Text:	At the beginning of each upkeep, if no spells were cast last turn, transform Breakneck Rider.//Attacking creatures you control get +1/+0 and have trample. At the beginning of each upkeep, if a player cast two of more spells last turn, transform Neck Breaker.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		147/999
+
+Card Name:	Burn from Within
+Card Color:	R
+Mana Cost:	XR
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	Burn from Within deals X damage to target creature or player. If a creature is dealt damage this way, it loses indestructible until end of turn. If that creature would die this turn, exile it instead.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		148/999
+
+Card Name:	Convicted Killer/Branded Howler
+Card Color:	R
+Mana Cost:	2R
+Type & Class:	Creature - Human Werewolf//Creature - Werewolf
+Pow/Tou:	2/2//4/4
+Card Text:	At the beginning of each upkeep, if no spells were cast last turn, transform Convicted Killer.//At the beginning of each upkeep, if a player cast two of more spells last turn, transform Branded Howler.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		149/999
+
+Card Name:	Dance with Devils
+Card Color:	R
+Mana Cost:	3R
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	Put two 1/1 red Devil creature tokens onto the battlefield. They have "When this creature dies, it deals 1 damage to target creature or player."
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		150/999
+
+Card Name:	Devil's Playground
+Card Color:	R
+Mana Cost:	4RR
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	Put four 1/1 red Devil creature tokens onto the battlefield. They have "When this creature dies, it deals 1 damage to target creature or player."
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		151/999
+
+Card Name:	Dissension in the Ranks
+Card Color:	R
+Mana Cost:	3RR
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	Target blocking creatures fights another target blocking creature.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		152/999
+
+Card Name:	Dual Shot
+Card Color:	R
+Mana Cost:	R
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	Dual Shot deals 1 damage to each of up to two target creatures.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		153/999
+
+Card Name:	Ember-Eye Wolf
+Card Color:	R
+Mana Cost:	1R
+Type & Class:	Creature - Wolf
+Pow/Tou:	1/2
+Card Text:	Haste. 1R: Ember-Eye Wolf gets +2/+0 until end of turn.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		154/999
+
+Card Name:	Falkenrath Gorger
+Card Color:	R
+Mana Cost:	R
+Type & Class:	Creature - Vampire Berserker
+Pow/Tou:	2/1
+Card Text:	Each Vampire creature card you own that isn't on the battlefield has madness. The madness cost is a equal to its mana cost. (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		155/999
+
+Card Name:	Fiery Temper
+Card Color:	R
+Mana Cost:	1RR
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	Fiery Temper deals 3 damage to target creature or player. Madness R (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		156/999
+
+Card Name:	Flameblade Angel
+Card Color:	R
+Mana Cost:	4RR
+Type & Class:	Creature - Angel
+Pow/Tou:	4/4
+Card Text:	Flying. Whenever a source an opponent controls deals damage to you or a permanent you control, you may have Flameblade Angel deal 1 damage to that source's controller.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		157/999
+
+Card Name:	Gatstaf Arsonists/Gatstaf Ravagers
+Card Color:	R
+Mana Cost:	4R
+Type & Class:	Creature - Human Werewolf//Creature - Werewolf
+Pow/Tou:	5/4//6/5
+Card Text:	At the beginning of each upkeep, if no spells were cast last turn, transform Gatstaf Arsonists.//Menace (This creature can't be blocked except by two or more creatures.) At the beginning of each upkeep, if a player cast two of more spells last turn, transform Gatstaf Ravagers.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		158/999
+
+Card Name:	Geier Reach Bandit/Vildin-Pack Alpha
+Card Color:	R
+Mana Cost:	2R
+Type & Class:	Creature - Human Rogue Werewolf//Creature - Werewolf
+Pow/Tou:	3/2//4/3
+Card Text:	Haste. At the beginning of each upkeep, if no spells were cast last turn, transform Geier Reach Bandit.//Whenever a Werewolf enters the battlefield under your control, you may transform it. At the beginning of each upkeep, if a player cast two of more spells last turn, transform Vildin-Pack Alpha.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		159/999
+
+Card Name:	Geistblast
+Card Color:	R
+Mana Cost:	2R
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	Geistblast deals 2 damage to target creature or player. 2U, Exile Geistblast from your graveyard: Copy target instant or sorcery spell you control. You may choose new targets for the copy.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		160/999
+
+Card Name:	Gibbering Fiend
+Card Color:	R
+Mana Cost:	1R
+Type & Class:	Creature - Devil
+Pow/Tou:	2/1
+Card Text:	When Gibbering Fiend enters the battlefield, it deals 1 damage to each opponent. Delirium - At the beginning of each opponent's upkeep, if there are four or more card types among cards in your graveyard, Gibbering Fiend deals 1 damage to that player.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		161/999
+
+Card Name:	Goldnight Castigator
+Card Color:	R
+Mana Cost:	2RR
+Type & Class:	Creature - Angel
+Pow/Tou:	4/9
+Card Text:	Flying, haste. If a source would deal damage to you, it deals double that damage to you instead. If a source would deal damage to Goldnight Castigator, it deals double that damage to Goldnight Castigator instead.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		162/999
+
+Card Name:	Harness the Storm
+Card Color:	R
+Mana Cost:	2R
+Type & Class:	Enchantment
+Pow/Tou:	
+Card Text:	Whenever you cast an instant or sorcery spell from your hand, you may cast target card with the same name as that spell from your graveyard. (You still pay its costs.)
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		163/999
+
+Card Name:	Howlpack Wolf
+Card Color:	R
+Mana Cost:	2R
+Type & Class:	Creature - Wolf
+Pow/Tou:	3/3
+Card Text:	Howlpack Wolf can't block unlesss you control another Wolf or Werewolf.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		164/999
+
+Card Name:	Hulking Devil
+Card Color:	R
+Mana Cost:	3R
+Type & Class:	Creature - Devil
+Pow/Tou:	5/2
+Card Text:	
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		165/999
+
+Card Name:	Incorrigible Youths
+Card Color:	R
+Mana Cost:	3RR
+Type & Class:	Creature - Vampire
+Pow/Tou:	4/3
+Card Text:	Haste. Madness 2R (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		166/999
+
+Card Name:	Inner Struggle
+Card Color:	R
+Mana Cost:	3R
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	Target creature deals damage to itself equal to its power.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		167/999
+
+Card Name:	Insolent Neonate
+Card Color:	R
+Mana Cost:	R
+Type & Class:	Creature - Vampire
+Pow/Tou:	1/1
+Card Text:	Menace (This creature can't be blocked except by two or more creatures.) Discard a card, Sacrifice Insolent Neonate: Draw a card.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		168/999
+
+Card Name:	Kessig Forgemaster/Flameheart Werewolf
+Card Color:	R
+Mana Cost:	1R
+Type & Class:	Creature - Human Shaman Werewolf//Creature - Werewolf
+Pow/Tou:	2/1//3/2
+Card Text:	Whenever Kessig Forgemaster blocks or becomes blocked by a creature, Kessig Forgemaster deals 1 damage to that creatre. At the beginning of each upkeep, if no spells were cast last turn, transform Kessig Forgemaster.//Whenever Flameheart Werewolf blocks or becomes blocked by a creature, Flameheart Werewolf deals 2 damage to that creature.//At the beginning of each upkeep, if a player cast two of more spells last turn, transform Flameheart Werewolf.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		169/999
+
+Card Name:	Lightning Axe
+Card Color:	R
+Mana Cost:	R
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	As an additional cost to cast Lightning Axe, discard a card or pay 5. Lightning Axe deals 5 damage to target creature.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		170/999
+
+Card Name:	Mad Prophet
+Card Color:	R
+Mana Cost:	3R
+Type & Class:	Creature - Human Shaman
+Pow/Tou:	2/2
+Card Text:	Haste. T, Discard a card: Draw a card.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		171/999
+
+Card Name:	Magmatic Chasm
+Card Color:	R
+Mana Cost:	1R
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	Creatures without flying can't block this turn.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		172/999
+
+Card Name:	Malevolent Whispers
+Card Color:	R
+Mana Cost:	3R
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	Gain control of target creature until end of turn. Untap that creature. It gets +2/+0 and gains haste until end of turn. Madness 3R (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		173/999
+
+Card Name:	Pyre Hound
+Card Color:	R
+Mana Cost:	3R
+Type & Class:	Creature - Elemental Hound
+Pow/Tou:	2/3
+Card Text:	Trample. Whenever you cast an instant or sorcery spell, put a +1/+1 counter on Pyre Hound.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		174/999
+
+Card Name:	Ravenous Bloodseeker
+Card Color:	R
+Mana Cost:	1R
+Type & Class:	Creature - Vampire Berserker
+Pow/Tou:	1/3
+Card Text:	Discard a card: Ravenous Bloodseeker gets +2/-2 until end of turn.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		175/999
+
+Card Name:	Reduce to Ashes
+Card Color:	R
+Mana Cost:	4R
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	Reduce to Ashes deals 5 damage to target creature. If that creature would die this turn, exile it instead.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		176/999
+
+Card Name:	Rush of Adrenaline
+Card Color:	R
+Mana Cost:	R
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	Target creature gains +2/+1 and gains trample until end of turn.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		177/999
+
+Card Name:	Sanguinary Mage
+Card Color:	R
+Mana Cost:	1R
+Type & Class:	Creature - Vampire Wizard
+Pow/Tou:	1/3
+Card Text:	Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		178/999
+
+Card Name:	Scourge Wolf
+Card Color:	R
+Mana Cost:	RR
+Type & Class:	Creature - Wolf Horror
+Pow/Tou:	2/2
+Card Text:	First strike. Delirium - Scourge Wolf has double strike as long as there are four or more card types among cards in your graveyard.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		179/999
+
+Card Name:	Senseless Rage
+Card Color:	R
+Mana Cost:	1R
+Type & Class:	Enchantment - Aura
+Pow/Tou:	
+Card Text:	Enchant creature. Enchanted creature gets +2/+2. Madness 1R (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		180/999
+
+Card Name:	Sin Prodder
+Card Color:	R
+Mana Cost:	2R
+Type & Class:	Creature - Devil
+Pow/Tou:	3/2
+Card Text:	Menace. At the beginning of your upkeep, reveal the top card of your library. Any opponent may have you put that card into your graveyard. If a player does, Sin Prodder deals damage to that player equal to that card's converted mana cost. Otherwise, put that card into your hand.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		181/999
+
+Card Name:	Skin Invasion/Skin Shedder
+Card Color:	R
+Mana Cost:	R
+Type & Class:	Enchantment - Aura//Creature - Insect Horror
+Pow/Tou:	3/4
+Card Text:	Enchant creature. Enchanted creature attacks each combat if able. When enchanted creature dies, return Skin Invasion to the battlefield transformed under your control.//
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		182/999
+
+Card Name:	Spiteful Motives
+Card Color:	R
+Mana Cost:	3R
+Type & Class:	Enchantment - Aura
+Pow/Tou:	
+Card Text:	Flash (You may cast this spell any time you could cast an instant.) Enchant creature. Enchanted creature gets +3/+0 and has first strike.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		183/999
+
+Card Name:	Stensia Masquerade
+Card Color:	R
+Mana Cost:	2R
+Type & Class:	Enchantment
+Pow/Tou:	
+Card Text:	Attacking creatures you control have first strike. Whenever a Vampire you control deals combat damage to a player, put a +1/+1 counter on it.	Madness 2R (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		184/999
+
+Card Name:	Structural Distortion
+Card Color:	R
+Mana Cost:	3R
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	Exile target artifact or land. Structural Distortion deals 2 damage to the permanent's controller.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		185/999
+
+Card Name:	Tormenting Voice
+Card Color:	R
+Mana Cost:	1R
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	As an additional cost to cast Tormenting Voice, discard a card. Draw two cards.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		186/999
+
+Card Name:	Ulrich's Kindred
+Card Color:	R
+Mana Cost:	2R
+Type & Class:	Creature - Wolf
+Pow/Tou:	3/2
+Card Text:	Trample. 3G: Target attacking Wolf or Werewolf gains indestructible until of turn.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		187/999
+
+Card Name:	Uncaged Fury
+Card Color:	R
+Mana Cost:	2R
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	Target creature gets +1/+1 and gains double strike until end of turn. (It deals both first-strike and regular combat damage.)
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		188/999
+
+Card Name:	Vessel of Volatility
+Card Color:	R
+Mana Cost:	1R
+Type & Class:	Enchantment
+Pow/Tou:	
+Card Text:	1R, Sacrifice Vessel of Volatility: Add RRRR to your mana pool.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		189/999
+
+Card Name:	Village Messenger/Moonrise Intruder
+Card Color:	R
+Mana Cost:	R
+Type & Class:	Creature - Human Werewolf//Creature - Werewolf
+Pow/Tou:	1/1//2/2
+Card Text:	Haste. At the beginning of each upkeep, if no spells were cast last turn, transform Village Messenger.//Menace (This creature can't be blocked except by two or more creatures.) At the beginning of each upkeep, if a player cast two of more spells last turn, transform Moonrise Intruder.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		190/999
+
+Card Name:	Voldaren Duelist
+Card Color:	R
+Mana Cost:	3R
+Type & Class:	Creature - Vampire Warrior
+Pow/Tou:	3/2
+Card Text:	Haste. When Voldaren Duelist enters the battlefield, target creature can't block this turn.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		191/999
+
+Card Name:	Wolf of Devil's Breach
+Card Color:	R
+Mana Cost:	3RR
+Type & Class:	Creature - Elemental Wolf
+Pow/Tou:	5/5
+Card Text:	Whenever Wolf of Devil's Breach attacks, you may pay 1R and discard a card. If you do, Wolf of Devil's Breach deals damage to target creature or planeswalker equal to the discarded card's converted mana cost.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		192/999
+
+Card Name:	Aim High
+Card Color:	G
+Mana Cost:	1G
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	Untap target creature. It gets +2/+2 and gains reach until end of turn. (It can block creatures with flying.)
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		193/999
+
+Card Name:	Autumnal Gloom/Ancient of the Equinox
+Card Color:	G
+Mana Cost:	2G
+Type & Class:	Enchantment//Creature - Treefolk
+Pow/Tou:	4/4
+Card Text:	B: Put the top card of your library into your graveyard. Delirium - At the beginning of your end step, if there are four or more card types among cards in your graveyard, transform Autumnal Gloom.//Trample, hexproof.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		194/999
+
+Card Name:	Briarbridge Patrol
+Card Color:	G
+Mana Cost:	3G
+Type & Class:	Creature - Human Warrior
+Pow/Tou:	3/3
+Card Text:	Whenever Briarbridge Patrol deals damage to one or more creatures, investigate. (Put a colorless Clue artifact token onto the battlefield with "2, Sacrifice this artifact: Draw a card.") At the beginning of each end step, if you sacrificed three or more Clues this turn, you may put a creature card from your hand onto the battlefield.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		195/999
+
+Card Name:	Byway Courier
+Card Color:	G
+Mana Cost:	2G
+Type & Class:	Creature - Human Scout
+Pow/Tou:	3/2
+Card Text:	When Byway Courier dies, investigate. (Put a colorless Clue artifact token onto the battlefield with "2, Sacrifice this artifact: Draw a card.")
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		196/999
+
+Card Name:	Clip Wings
+Card Color:	G
+Mana Cost:	1G
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	Each opponent sacrifices a creature with flying.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		197/999
+
+Card Name:	Confront the Unknown
+Card Color:	G
+Mana Cost:	G
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	Investigate, then target creature gets +1/+1 until end of turn for each Clue you control. (To investigate, put a colorless Clue artifact token onto the battlefield with "2, Sacrifice this artifact: Draw a card.")
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		198/999
+
+Card Name:	Crawling Sensation
+Card Color:	G
+Mana Cost:	2G
+Type & Class:	Enchantment
+Pow/Tou:	
+Card Text:	At the beginning of your upkeep, you may put the top two cards of your library into your graveyard. Whenever one or more land cards are put into your graveyard from anywhere for the first time each turn, put a 1/1 green Insect creature token onto the battlefield.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		199/999
+	
+Card Name:	Cryptolith Rite
+Card Color:	G
+Mana Cost:	1G
+Type & Class:	Enchantment
+Pow/Tou:	
+Card Text:	Creatures you control have "T: Add one mana of any color to your mana pool."
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		200/999
+
+Card Name:	Cult of the Waxing Moon
+Card Color:	G
+Mana Cost:	4G
+Type & Class:	Creature - Human Shaman
+Pow/Tou:	5/4
+Card Text:	Whenever a permanent you control transforms into a non-Human creature, put a 2/2 green Wolf creature token onto the battlefield.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		201/999
+
+Card Name:	Deathcap Cultivator
+Card Color:	G
+Mana Cost:	1G
+Type & Class:	Creature - Human Druid
+Pow/Tou:	2/1
+Card Text:	T: Add B or G to your mana pool. Delirium - Deathcap Cultivator has deathtouch as long as there are four or more card types among cards in your graveyard.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		202/999
+
+Card Name:	Duskwatch Recruiter/Krallenhorde Howler
+Card Color:	G
+Mana Cost:	1G
+Type & Class:	Creature - Human Warrior Werewolf//Creature - Werewolf
+Pow/Tou:	2/2//3/3
+Card Text:	2G: Look at the top three cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in any order. At the beginning of each upkeep, if no spells were cast last turn, transform Duskwatch Recruiter.//Creature spells you cast cost 1 less to cast. At the beginning of each upkeep if a player cast two or more spells last turn, transform Krallenhorde Howler.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		203/999
+
+Card Name:	Equestrian Skill
+Card Color:	G
+Mana Cost:	3G
+Type & Class:	Enchantment - Aura
+Pow/Tou:	
+Card Text:	Enchant creature. Enchanted creature gets +3/+3. As long as enchanted creature is a Human, it has trample.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		204/999
+
+Card Name:	Fork in the Road
+Card Color:	G
+Mana Cost:	1G
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	Search your library for up to two basic land cards and reveal them. Put one into your hand and the other into your graveyard. Then shuffle your library.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		205/999
+
+Card Name:	Gloomwidow
+Card Color:	G
+Mana Cost:	2G
+Type & Class:	Creature - Spider
+Pow/Tou:	3/3
+Card Text:	Reach. Gloomwidow can block only creatures with flying.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		206/999
+
+Card Name:	Graf Mole
+Card Color:	G
+Mana Cost:	2G
+Type & Class:	Creature - Mole Beast
+Pow/Tou:	2/4
+Card Text:	Whenever you sacrifice a Clue, you gain 3 life.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		207/999
+
+Card Name:	Groundskeeper
+Card Color:	G
+Mana Cost:	G
+Type & Class:	Creature - Human Druid
+Pow/Tou:	1/1
+Card Text:	1G: Return target basic land card from yoru graveyard to your hand.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		208/999
+
+Card Name:	Hermit of the Natterknolls/Lone Wolf of the Natterknolls
+Card Color:	G
+Mana Cost:	2G
+Type & Class:	Creature - Human Werewolf//Creature - Werewolf
+Pow/Tou:	2/3//3/5
+Card Text:	Whenever an opponent casts a spell during your turn, draw a card. At the beginning of each upkeep, if no spells were cast last turn, transform Hermit of the Natterknolls.//Whenever an opponent casts a spell during your turn, draw two cards. At the beginning of each upkeep, if a player cast two of more spells last turn, transform Lone Wolf of the Natterknolls.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		209/999
+
+Card Name:	Hinterland Logger/Timber Shredder
+Card Color:	G
+Mana Cost:	1G
+Type & Class:	Creature - Human Werewolf//Creature - Werewolf
+Pow/Tou:	2/1//4/2
+Card Text:	At the beginning of each upkeep, if no spells were cast last turn, transform Hinterland Logger.//Trample. At the beginning of each upkeep, if a player cast two or more spells last turn, transform Timber Shredder.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		210/999
+
+Card Name:	Howlpack Resurgence
+Card Color:	G
+Mana Cost:	2G
+Type & Class:	Enchantment
+Pow/Tou:	
+Card Text:	Flash (You may cast this spell any time you could cast an instant.) Each creature you control that's a Wolf or a Werewolf gets +1/+1 and has trample.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		211/999
+
+Card Name:	Inexorable Blob
+Card Color:	G
+Mana Cost:	2G
+Type & Class:	Creature - Ooze
+Pow/Tou:	3/3
+Card Text:	Delirium - Whenever Inexorable Blob atacks, if there are four or more card types among cards in your graveyard, put a 3/3 green Ooze creature token onto the battlefield tapped and attacking.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		212/999
+
+Card Name:	Intrepid Provisioner
+Card Color:	G
+Mana Cost:	3G
+Type & Class:	Creature - Human Scout
+Pow/Tou:	3/3
+Card Text:	Trample. When Intrepid Provisioner enters the battlefield, another target Human you control gets +2/+2 until end of turn.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		213/999
+
+Card Name:	Kessig Dire Swine
+Card Color:	G
+Mana Cost:	4GG
+Type & Class:	Creature - Boar Horror
+Pow/Tou:	6/6
+Card Text:	Delirium - Kessig Dire Swine has trample as long as there are four or more card types among cards in your graveyard.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		214/999
+
+Card Name:	Lambholt Pacifist/Lambholt Butcher
+Card Color:	G
+Mana Cost:	1G
+Type & Class:	Creature - Human Shaman Werewolf//Creature - Werewolf
+Pow/Tou:	3/3//4/4
+Card Text:	Lambholt Pacifist can't attack unless you control a creature with power 4 or greater. At the beginning of each upkeep, if no spells were cast last turn, transform Lambholt Pacifist.//At the beginning of each upkeep, if a player cast two of more spells last turn, transform Lambholt Butcher.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		215/999
+
+Card Name:	Loam Dryad
+Card Color:	G
+Mana Cost:	G
+Type & Class:	Creature - Dryad Horror
+Pow/Tou:	1/2
+Card Text:	T, Tap an untapped creature you control: Add one mana of any color to your mana pool.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		216/999
+
+Card Name:	Might Beyond Reason
+Card Color:	G
+Mana Cost:	3G
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	Put two +1/+1 counters on target creature. Delirium - Put three +1/+1 counters on that creature instead if there are four or more card types among cards in your graveyard.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		217/999
+
+Card Name:	Moldgraf Scavenger
+Card Color:	G
+Mana Cost:	1G
+Type & Class:	Creature - Fungus
+Pow/Tou:	0/4
+Card Text:	Delirium - Moldgraf Scavenger gets +3/+0 as long as there are four or more card types among cards in your graveyard.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		218/999
+
+Card Name:	Moonlight Hunt
+Card Color:	G
+Mana Cost:	1G
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	Choose target creature you don't control. Each creature you control that's a Wolf or a Werewolf deals damage equal to its power to that creature.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		219/999
+
+Card Name:	Obsessive Skinner
+Card Color:	G
+Mana Cost:	1G
+Type & Class:	Creature - Human Rogue
+Pow/Tou:	1/1
+Card Text:	When Obsessive Skinner enters the batlefield, put a +1/+1 counter on target creature. Delirium - At the beginning of each opponent's upkeep, if there are four or more card types among cards in your graveyard, put a +1/+1 counter on target creature.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		220/999
+
+Card Name:	Pack Guardian
+Card Color:	G
+Mana Cost:	2GG
+Type & Class:	Creature - Wolf Spirit
+Pow/Tou:	4/3
+Card Text:	Flash (You may cast this spell any time you could cast an instant.) When Pack Guardian enters the battlefield, you may discard a land card. If you do, put a 2/2 green Wolf creature token onto the battlefield.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		221/999
+
+Card Name:	Quilled Wolf
+Card Color:	G
+Mana Cost:	1G
+Type & Class:	Creature - Wolf
+Pow/Tou:	2/2
+Card Text:	5G: Quilled Wolf gets +4/+4 until end of turn.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		222/999
+
+Card Name:	Rabid Bite
+Card Color:	G
+Mana Cost:	1G
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	Target creature you control deals damage equal to its power to target creature you don't control.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		223/999
+
+Card Name:	Root Out
+Card Color:	G
+Mana Cost:	2G
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	Destroy target artifact or enchntment. Investigate. (Put a colorless Clue artifact token onto the battlefield with "2, Sacrifice this artifact: Draw a card.")
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		224/999
+
+Card Name:	Sage of Ancient Lore/Werewolf of Ancient Hunger
+Card Color:	G
+Mana Cost:	4G
+Type & Class:	Creature - Human Shaman Werewolf//Creature - Werewolf
+Pow/Tou:	*/*//*/*
+Card Text:	Sage of Ancient Lore's power and toguhness are each equal to the number of cards in your hand. When Sage of Ancient Lore enters the battlefield, draw a card. At the beginning of each upkeep, if no spells were cast last turn, transform Sage of Ancient Lore.//Vigilance, trample. Werewolf of Ancient Hunger's power and toughness are each equal to the total number of cards in all players' hands. At the beginning of each upkeep, if a player cast two of more spells last turn, transform Werewolf of Ancient Hunger.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		225/999
+
+Card Name:	Seasons Past
+Card Color:	G
+Mana Cost:	4GG
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	Return any number of cards with different converted mana costs from your graveyard to your hand. Put Seasons Past on the bottom of its owner's library.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		226/999
+
+Card Name:	Second Harvest
+Card Color:	G
+Mana Cost:	2GG
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	For each token you control, put a token onto the battlefield that's a copy of that permanent.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		227/999
+
+Card Name:	Silverfur Partisan
+Card Color:	G
+Mana Cost:	2G
+Type & Class:	Creature - Wolf Warrior
+Pow/Tou:	2/2
+Card Text:	Trample. Whenever a Wolf or Werewolf you control becomes the target of an instant or sorcery spell, put a 2/2 green Wolf creature token onto the battlefield.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		228/999
+
+Card Name:	Solitary Hunter/One of the Pack
+Card Color:	G
+Mana Cost:	3G
+Type & Class:	Creature - Human Warrior Werewolf//Creature - Werewolf
+Pow/Tou:	3/4//5/6
+Card Text:	At the beginning of each upkeep, if no spells were cast last turn, transform Solitary Hunter.//At the beginning of each upkeep, if a player cast two of more spells last turn, transform One of the Pack.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		229/999
+
+Card Name:	Soul Swallower
+Card Color:	G
+Mana Cost:	2GG
+Type & Class:	Creature - Wurm
+Pow/Tou:	3/3
+Card Text:	Trample. Delirium - At the beginning of your upkeep, if there are four or more card types among cards in your graveyard, put three +1/+1 counters on Soul Swallower.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		230/999
+
+Card Name:	Stoic Builder
+Card Color:	G
+Mana Cost:	2G
+Type & Class:	Creature - Human
+Pow/Tou:	2/3
+Card Text:	When Stoic Builder enters the battlefield, you may return target land card from your graveyard to your hand.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		231/999
+
+Card Name:	Thornhide Wolves
+Card Color:	G
+Mana Cost:	4G
+Type & Class:	Creature - Wolf
+Pow/Tou:	4/5
+Card Text:	
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		232/999
+
+Card Name:	Tireless Tracker
+Card Color:	G
+Mana Cost:	2G
+Type & Class:	Creature - Human Scout
+Pow/Tou:	3/2
+Card Text:	Whenever a land enters the battlefield under your control, investigate. (Put a colorless Clue artifact token onto the battlefield with "2, Sacrifice this artifact: Draw a card.") Whenever you sacrifice a Clue, put a +1/+1 counter on Tireless Tracker.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		233/999
+
+Card Name:	Traverse the Ulvenwald
+Card Color:	G
+Mana Cost:	G
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library. Delirium - If there are four or more card types among cards in your graveyard, instead search yoru library for a creature or land card, reveal it, put it into your hand, then shuffle yoru library.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		234/999
+
+Card Name:	Ulvenwald Hydra
+Card Color:	G
+Mana Cost:	4GG
+Type & Class:	Creature - Hydra
+Pow/Tou:	*/*
+Card Text:	Reach. Ulvenwald Hydra's power and toughness are each equal to the number of lands you control. When Ulvenwald Hydra enters the battlefield, you may search your library for a land card, put it onto the battlefield tapped, then shuffle your library.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		235/999
+
+Card Name:	Ulvenwald Mysteries
+Card Color:	G
+Mana Cost:	2G
+Type & Class:	Enchantment
+Pow/Tou:	
+Card Text:	Whenever a nontoken creature you control dies, investigate. (Put a colorless Clue artifact token onto the battlefield with "2, Sacrifice this artifact: Draw a card.") Whenever you sacrifice a Clue, put a 1/1 white Human Soldier creature token onto the battlefield.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		236/999
+
+Card Name:	Vessel of Nascency
+Card Color:	G
+Mana Cost:	G
+Type & Class:	Enchantment
+Pow/Tou:	
+Card Text:	1G, Sacrifice Vessel of Nascency: Reveal the top four cards of your library. You may put an artifact, creature, enchantment, land, or planeswalker card from among them into your hand. Put the rest into your graveyard.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		237/999
+
+Card Name:	Veteran Cathar
+Card Color:	G
+Mana Cost:	1G
+Type & Class:	Creature - Human Soldier
+Pow/Tou:	2/2
+Card Text:	3W: Target Human gains double strike until end of turn.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		238/999
+
+Card Name:	Watcher in the Web
+Card Color:	G
+Mana Cost:	4G
+Type & Class:	Creature - Spider
+Pow/Tou:	2/5
+Card Text:	Reach (This creature can block creatures with flying.) Watcher in the Web can block an additional seven creatures each combat.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		239/999
+
+Card Name:	Weirding Wood
+Card Color:	G
+Mana Cost:	2G
+Type & Class:	Enchantment - Aura
+Pow/Tou:	
+Card Text:	Enchant Land. When Weirding Wood enters the battlefield, investigate. (Put a colorless Clue artifact token onto the battlefield with "2, Sacrifice this artifact: Draw a card.") Enchanted land has "T: Add two mana of any color to your mana pool."
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		240/999
+
+Card Name:	Altered Ego
+Card Color:	Gld
+Mana Cost:	X2GU
+Type & Class:	Creature - Shapeshifter
+Pow/Tou:	0/0
+Card Text:	Altered Ego can't be countered. You may have Altered Ego enter the battlefield as a copy of any creature on the battlefield, except it enters with X additional +1/+1 counters on it.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		241/999
+
+Card Name:	Anguished Unmaking
+Card Color:	Gld
+Mana Cost:	1WB
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	Exile target nonland permanent. You loses 3 life.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		242/999
+
+Card Name:	Arlinn Kord/Arlinn, Embraced by the Moon
+Card Color:	Gld
+Mana Cost:	2RG
+Type & Class:	Planeswalker - Arlinn
+Pow/Tou:	#/3
+Card Text:	+1: Until end of turn, up to one target creature gets +2/+2 and gains vigilance and haste. 0: Put a 2/2 green Wolf creature token onto the battlefield. Transform Arlinn Kord.//+1: Creatures you control get +1/+1 and gain trample until end of turn. -1: Arlinn, Embraced by the Moon deals 3 damage to target creature or player. Transform Arlinn, Embraced by the Moon. -6: You get an emblem with "Creatures you control have haste and 'T: This creature deals damage equal to its power to target creature or player.'"
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		243/999
+
+Card Name:	Fevered Visions
+Card Color:	Gld
+Mana Cost:	1UR
+Type & Class:	Enchantment
+Pow/Tou:	
+Card Text:	At the beginning of each player's end step, that player draws a card. If the player is your opponent and has four or more cards in hand, Fevered Visions deals 2 damage to him or her.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		244/999
+
+Card Name:	The Gitrog Monster
+Card Color:	Gld
+Mana Cost:	3BG
+Type & Class:	Legendary Creature - Frog Horror
+Pow/Tou:	6/6
+Card Text:	Deathtouch. At the beginnning of your upkeep, sacrifice The Gitrog Monster unless you sacrifice a land. You may play an additional land on each of your turns. Whenver one or more land cards are put into your graveyard from anywhere, draw a card.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		245/999
+
+Card Name:	Invocation of Saint Traft
+Card Color:	Gld
+Mana Cost:	1WU
+Type & Class:	Enchantment - Aura
+Pow/Tou:	
+Card Text:	Enchant creature. Enchanted creature has "Whenever this creature attacks, put a 4/4 white Angel creature token with flying onto the battlefield tapped and attacking. Exile that token at end of combat."
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		246/999
+
+Card Name:	Nahiri, the Harbinger
+Card Color:	Gld
+Mana Cost:	2RW
+Type & Class:	Planeswalker - Nahiri
+Pow/Tou:	#/4
+Card Text:	+2: You may discard a card. If you do, draw a card. -2: Exile target enchantment, tapped artifact, or tapped creature. -8: Search your library for an artifact or creature card, put it onto the battlefeild, then shuffle your library. It gains haste. Return it to your hand at the beginning of the next end step.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		247/999
+
+Card Name:	Olivia, Mobilized for War
+Card Color:	Gld
+Mana Cost:	1BR
+Type & Class:	Legendary Creature - Vampire Knight
+Pow/Tou:	3/3
+Card Text:	Flying. Whenever another creature enters the battlefield under your control, you may discard a card. If you do, put a +1/+1 counter on that creature, it gains haste until end of turn, and it becomes a Vampire in addition to its other types.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		248/999
+
+Card Name:	Prized Amalgam
+Card Color:	Gld
+Mana Cost:	1UB
+Type & Class:	Creature - Zombie
+Pow/Tou:	3/3
+Card Text:	Whenever a creature enters the battelfield, if it entered from your graveyard or you cast it from your graveyard, return Prized Amalgam from your graveyard to the battlefield tapped at the beginning of the next end step.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		249/999
+
+Card Name:	Sigarda, Heron's Grace
+Card Color:	Gld
+Mana Cost:	3GW
+Type & Class:	Legendary Creature - Angel
+Pow/Tou:	4/5
+Card Text:	Flying. You and Humans you control have hexproof. 2, Exile a card from your graveyard: put a 1/1 white Human Soldier creature token onto the battlefield.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		250/999
+
+Card Name:	Sorin, Grim Nemesis
+Card Color:	Gld
+Mana Cost:	4WB
+Type & Class:	Planeswalker - Sorin
+Pow/Tou:	#/6
+Card Text:	+1: Reveal the top card of your library and put that card into your hand. Each opponent loses life equal to it's converted mana cost. -X: Sorin, Grim Nemesis deals X damage to target creature or planeswalker and you gain X life. -9: Put a number of 1/1 black Vampire Knight creature tokens with lifelink onto the battlefield equal to the highest life total among all players.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		251/999
+
+Card Name:	Brain in a Jar
+Card Color:	Art
+Mana Cost:	2
+Type & Class:	Artifact
+Pow/Tou:	
+Card Text:	1, T: Put a charge counter on Brain in a Jar, then you may cast an instant or sorcery card with converted mana cost equal to the number of charge counters on Brain in a Jar from your hand without paying its mana cost. 3, T, Remove X charge counters from Brain in a Jar: Scry X.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		252/999
+
+Card Name:	Corrupted Grafstone
+Card Color:	Art
+Mana Cost:	2
+Type & Class:	Artifact
+Pow/Tou:	
+Card Text:	Corrupted Grafstone enters the battlefield tapped. T: Choose a color of a card in your graveyard. Add one mana of that color to your mana pool.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		253/999
+
+Card Name:	Epitaph Golem
+Card Color:	Art
+Mana Cost:	5
+Type & Class:	Artifact Creature - Golem
+Pow/Tou:	3/5
+Card Text:	2: Put target card from your graveyard on the bottom of your library.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		254/999
+
+Card Name:	Explosive Apparatus
+Card Color:	Art
+Mana Cost:	1
+Type & Class:	Artifact
+Pow/Tou:	
+Card Text:	3, T, Sacrifice Explosive Apparatus: Explosive Apparatus deals 2 damage to target creature or player.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		255/999
+
+Card Name:	Harvest Hand/Scrounged Scythe
+Card Color:	Art
+Mana Cost:	3
+Type & Class:	Artifact Creature - Scarecrow//Artifact - Equipment
+Pow/Tou:	2/2
+Card Text:	When Harvest Hand dies, return it to the battlefield transformed under your control.//Equipped creatures gets +1/+1. As long as equipped creature is a Human, it has menace. (It can't be blocked except by two or more creatures.) Equip 2
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		256/999
+
+Card Name:	Haunted Cloak
+Card Color:	Art
+Mana Cost:	3
+Type & Class:	Artifact - Equipment
+Pow/Tou:	
+Card Text:	Equipped creature has vigilance, trample, and haste. Equip 1.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		257/999
+
+Card Name:	Magnifying Glass
+Card Color:	Art
+Mana Cost:	3
+Type & Class:	Artifact
+Pow/Tou:	
+Card Text:	T: Add %C to your mana pool. 4, T: Investigate. (Put a colorless Clue artifact token onto the battlefield with "2, Sacrifice this artifact: Draw a card.")
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		258/999
+
+Card Name:	Murderer's Axe
+Card Color:	Art
+Mana Cost:	4
+Type & Class:	Artifact - Equipment
+Pow/Tou:	
+Card Text:	Equipped creature gets +2/+2. Equip - Discard a card.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		259/999
+
+Card Name:	Neglected Heirloom/Ashmouth Blade
+Card Color:	Art
+Mana Cost:	1
+Type & Class:	Artifact - Equipment
+Pow/Tou:	
+Card Text:	Equipped creature gets +1/+1. When equipped creature transforms, transform Neglected Heirloom. Equip 1.//Equipped creature gets +3/+3 and has first strike. Equip 3.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		260/999
+
+Card Name:	Runaway Carriage
+Card Color:	Art
+Mana Cost:	4
+Type & Class:	Artifact Creature - Construct
+Pow/Tou:	5/6
+Card Text:	Trample. When Runaway Carriage attacks or blocks, sacrifice it at end of combat.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		261/999
+
+Card Name:	Shard of Broken Glass
+Card Color:	Art
+Mana Cost:	1
+Type & Class:	Artifact - Equipment
+Pow/Tou:	
+Card Text:	Equipped creature gets +1/+0. Whenever equipped creature attacks, you may put the top two cards of your library into your graveyard. Equip 1 (1: Attach to target creature you control. Equip only as a sorcery.)
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		262/999
+
+Card Name:	Skeleton Key
+Card Color:	Art
+Mana Cost:	1
+Type & Class:	Artifact - Equipment
+Pow/Tou:	
+Card Text:	Equipped creature has skulk. (It can't be blocked by creatures with greater power.) Whenever equipped creature deals combat damage to a player, you may draw a card. If you do, discard a card. Equip 2.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		263/999
+
+Card Name:	Slayer's Plate
+Card Color:	Art
+Mana Cost:	3
+Type & Class:	Artifact - Equipment
+Pow/Tou:	
+Card Text:	Equipped creature gets +4/+2. Whenever equipped creature dies, if it was a Human, put a 1/1 white Spirit creature token with flying onto the battlefield. Equip 3.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		264/999
+
+Card Name:	Tamiyo's Journal
+Card Color:	Art
+Mana Cost:	5
+Type & Class:	Legendary Artifact
+Pow/Tou:	
+Card Text:	At the beginning of your upkeep, investigate. (Put a colorless Clue artifact token onto the battlefield with "2, Sacrifice this artifact: Draw a card.") T, Sacrifice three Clues: Search your library for a card and put that card into your hand. Then shuffle your library.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		265/999
+
+Card Name:	Thraben Gargoyle/Stonewing Antagonizer
+Card Color:	Art
+Mana Cost:	1
+Type & Class:	Artifact Creature - Gargoyle//Artifact Creature - Gargoyle Horror
+Pow/Tou:	2/2//4/2
+Card Text:	Defender. 6: Transform Thraben Gargoyle.//Flying.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		266/999
+
+Card Name:	True-Faith Censer
+Card Color:	Art
+Mana Cost:	2
+Type & Class:	Artifact - Equipment
+Pow/Tou:	
+Card Text:	Equipped creature gets +1/+1 and has vigilance. As long as equipped creature is a Human, it gets an additional +1/+0. Equip 2 (2: Attach to target creature you control. Equip only as a sorcery.)
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		267/999
+
+Card Name:	Wicker Witch
+Card Color:	Art
+Mana Cost:	3
+Type & Class:	Artifact Creature - Scarecrow
+Pow/Tou:	3/1
+Card Text:	
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		268/999
+
+Card Name:	Wild-Field Scarecrow
+Card Color:	Art
+Mana Cost:	3
+Type & Class:	Artifact Creature - Scarecrow
+Pow/Tou:	1/4
+Card Text:	Defender. 2, Sacrifice Wild-Field Scarecrow: Search your library for up to two basic land cards, reveal them, and put them into your hand. Then shuffle your library.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		269/999
+
+Card Name:	Choked Estuary
+Card Color:	Lnd
+Mana Cost:	
+Type & Class:	Land
+Pow/Tou:	
+Card Text:	As Choked Estuary enters the battlefield, you may reveal a Island or Swamp card from your hand. If you don't, Choked Estuary enters the battlefield tapped. T: Add U or B to your mana pool.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		270/999
+
+Card Name:	Drownyard Temple
+Card Color:	Lnd
+Mana Cost:	
+Type & Class:	Land
+Pow/Tou:	
+Card Text:	T: Add %C to your mana pool. 3: Return Drownyard Temple from your graveyard to the battlefield tapped.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		271/999
+
+Card Name:	Foreboding Ruins
+Card Color:	Lnd
+Mana Cost:	
+Type & Class:	Land
+Pow/Tou:	
+Card Text:	As Foreboding Ruins enters the battlefield, you may reveal a Swamp or Mountian card from your hand. If you don't, Forboding Ruins enters the battlefield tapped. T: Add B or R to your mana pool.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		272/999
+
+Card Name:	Forsaken Sanctuary
+Card Color:	Lnd
+Mana Cost:	
+Type & Class:	Land
+Pow/Tou:	
+Card Text:	Forsaken Sanctuary enters the battlefield tapped. T: Add W or B to your mana pool.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		273/999
+
+Card Name:	Fortified Village
+Card Color:	Lnd
+Mana Cost:	
+Type & Class:	Land
+Pow/Tou:	
+Card Text:	As Fortified Village enters the battlefield, you may reveal a Forest or Plains card from your hand. If you don't, Fortified Village enters the battlefield tapped. T: Add G or W to your mana pool.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		274/999
+
+Card Name:	Foul Orchard
+Card Color:	Lnd
+Mana Cost:	
+Type & Class:	Land
+Pow/Tou:	
+Card Text:	Foul Orchard enters the battlefield tapped. T: Add B or G to your mana pool.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		275/999
+
+Card Name:	Game Trail
+Card Color:	Lnd
+Mana Cost:	
+Type & Class:	Land
+Pow/Tou:	
+Card Text:	As Game Trail enters the battlefield, you may reveal a Mountain or Forest card from your hand. If you don't, Game Trail enters the battlefield tapped. T: Add R or G to your mana pool.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		276/999
+
+Card Name:	Highland Lake
+Card Color:	Lnd
+Mana Cost:	
+Type & Class:	Land
+Pow/Tou:	
+Card Text:	Highland Lake enters the battlefield tapped. T: Add U or R to your mana pool.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		277/999
+
+Card Name:	Port Town
+Card Color:	Lnd
+Mana Cost:	
+Type & Class:	Land
+Pow/Tou:	
+Card Text:	As Port Town enters the battlefield, you may reveal a Plains or Island card from your hand. If you don't, Port Town enters the battlefield tapped. T: Add W or U to your mana pool.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		278/999
+
+Card Name:	Stone Quarry
+Card Color:	Lnd
+Mana Cost:	
+Type & Class:	Land
+Pow/Tou:	
+Card Text:	Stone Quarry enters the battlefield tapped. T: Add R or W to your mana pool.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		279/999
+
+Card Name:	Warped Landscape
+Card Color:	Lnd
+Mana Cost:	
+Type & Class:	Land
+Pow/Tou:	
+Card Text:	T: Add %C to your mana pool. 2, T, Sacrifice Warped Landscape: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		280/999
+
+Card Name:	Westvale Abbey/Ormendahl, Profane Prince
+Card Color:	Lnd
+Mana Cost:	
+Type & Class:	Land//Legendary Creature - Demon
+Pow/Tou:	9/7
+Card Text:	T: Add %C to your mana pool. 5, T, Pay 1 life: Put a 1/1 white and black Human Cleric creature token onto the battlefield. 5, T, Sacrifice five creatures: Transform Westvale Abbey, then untap it.//Flying, lifelink, indestructible, haste.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		281/999
+
+Card Name:	Woodland Stream
+Card Color:	Lnd
+Mana Cost:	
+Type & Class:	Land
+Pow/Tou:	
+Card Text:	Woodland Stream enters the battlefield tapped. T: Add G or U to your mana pool.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		282/999
+
+Card Name:	Plains
+Card Color:	Lnd
+Mana Cost:	
+Type & Class:	Basic Land - Plains
+Pow/Tou:	
+Card Text:	
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		283/999
+
+Card Name:	Plains
+Card Color:	Lnd
+Mana Cost:	
+Type & Class:	Basic Land - Plains
+Pow/Tou:	
+Card Text:	
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		284/999
+
+Card Name:	Plains
+Card Color:	Lnd
+Mana Cost:	
+Type & Class:	Basic Land - Plains
+Pow/Tou:	
+Card Text:	
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		285/999
+
+Card Name:	Island
+Card Color:	Lnd
+Mana Cost:	
+Type & Class:	Basic Land - Island
+Pow/Tou:	
+Card Text:	
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		286/999
+
+Card Name:	Island
+Card Color:	Lnd
+Mana Cost:	
+Type & Class:	Basic Land - Island
+Pow/Tou:	
+Card Text:	
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		287/999
+
+Card Name:	Island
+Card Color:	Lnd
+Mana Cost:	
+Type & Class:	Basic Land - Island
+Pow/Tou:	
+Card Text:	
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		288/999
+
+Card Name:	Swamp
+Card Color:	Lnd
+Mana Cost:	
+Type & Class:	Basic Land - Swamp
+Pow/Tou:	
+Card Text:	
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		289/999
+
+Card Name:	Swamp
+Card Color:	Lnd
+Mana Cost:	
+Type & Class:	Basic Land - Swamp
+Pow/Tou:	
+Card Text:	
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		290/999
+
+Card Name:	Swamp
+Card Color:	Lnd
+Mana Cost:	
+Type & Class:	Basic Land - Swamp
+Pow/Tou:	
+Card Text:	
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		291/999
+
+Card Name:	Mountain
+Card Color:	Lnd
+Mana Cost:	
+Type & Class:	Basic Land - Mountain
+Pow/Tou:	
+Card Text:	
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		292/999
+
+Card Name:	Mountain
+Card Color:	Lnd
+Mana Cost:	
+Type & Class:	Basic Land - Mountain
+Pow/Tou:	
+Card Text:	
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		293/999
+
+Card Name:	Mountain
+Card Color:	Lnd
+Mana Cost:	
+Type & Class:	Basic Land - Mountain
+Pow/Tou:	
+Card Text:	
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		294/999
+
+Card Name:	Forest
+Card Color:	Lnd
+Mana Cost:	
+Type & Class:	Basic Land - Forest
+Pow/Tou:	
+Card Text:	
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		295/999
+
+Card Name:	Forest
+Card Color:	Lnd
+Mana Cost:	
+Type & Class:	Basic Land - Forest
+Pow/Tou:	
+Card Text:	
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		296/999
+
+Card Name:	Forest
+Card Color:	Lnd
+Mana Cost:	
+Type & Class:	Basic Land - Forest
+Pow/Tou:	
+Card Text:	
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		297/999
